@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\VBPlayAnim.cs" />
+    <None Include="Assets\StreamingAssets\Vuforia\ModelEngine.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/UnityProj/Vuforia10102019/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
